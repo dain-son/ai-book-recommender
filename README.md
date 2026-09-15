@@ -3,9 +3,15 @@
 분야를 고르고 취향 질문에 답하면, AI가 **웹 검색으로 요즘 화제인 책까지 확인해서** 네 권을 골라 줍니다.
 로그인은 없습니다. 추천 세션은 익명 UUID로만 구분됩니다.
 
-## 화면
+<p align="center">
+  <img src="docs/intro.gif" alt="책갈피 소개 영상: 분야를 고르고 취향에 답하면 AI가 웹 검색으로 책 네 권을 골라 주는 흐름" width="324">
+</p>
 
-20초 소개 영상(세로 9:16): [docs/intro-9x16.mp4](docs/intro-9x16.mp4) — Remotion 소스는 [`video/`](video/)에 있습니다.
+<p align="center">
+  <sub>원본 화질 <a href="docs/intro-9x16.mp4">MP4 (1080x1920, 20초)</a> · Remotion 소스는 <a href="video/"><code>video/</code></a></sub>
+</p>
+
+## 화면
 
 
 **홈 `/` — 분야 고르기 + 많이 추천된 책**
