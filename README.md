@@ -5,6 +5,9 @@
 
 ## 화면
 
+20초 소개 영상(세로 9:16): [docs/intro-9x16.mp4](docs/intro-9x16.mp4) — Remotion 소스는 [`video/`](video/)에 있습니다.
+
+
 **홈 `/` — 분야 고르기 + 많이 추천된 책**
 
 <img src="docs/screenshots/01-home.png" alt="홈 화면: 분야 8개 카드와 많이 추천된 책 랭킹" width="820">

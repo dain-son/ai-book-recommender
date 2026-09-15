@@ -48,3 +48,8 @@ next-env.d.ts
 
 # playwright mcp 임시 출력
 .playwright-mcp/
+
+# remotion 영상 프로젝트
+video/node_modules/
+video/out/
+video/.remotion/
