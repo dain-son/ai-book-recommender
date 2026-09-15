@@ -3,6 +3,24 @@
 분야를 고르고 취향 질문에 답하면, AI가 **웹 검색으로 요즘 화제인 책까지 확인해서** 네 권을 골라 줍니다.
 로그인은 없습니다. 추천 세션은 익명 UUID로만 구분됩니다.
 
+## 화면
+
+**홈 `/` — 분야 고르기 + 많이 추천된 책**
+
+<img src="docs/screenshots/01-home.png" alt="홈 화면: 분야 8개 카드와 많이 추천된 책 랭킹" width="820">
+
+**취향 질문 `/genre/[slug]` — DB에 저장된 질문을 그대로 렌더링**
+
+<img src="docs/screenshots/02-genre.png" alt="철학·인문 취향 질문 화면" width="820">
+
+**추천 결과 `/result/[id]` — 책 4권 + 고른 이유 + 참고 자료**
+
+<img src="docs/screenshots/03-result.png" alt="추천 결과 화면: 책 4권과 선정 이유, 참고한 웹 검색 출처" width="820">
+
+**모아보기 `/books` — 지금까지 추천된 책 전체 (분야 필터·정렬)**
+
+<img src="docs/screenshots/04-books.png" alt="모아보기 화면: 분야 필터와 정렬이 달린 책 목록" width="820">
+
 ## 스택
 
 | 역할 | 선택 |
